@@ -1,7 +1,7 @@
 let nickName = "Carlinhos2"
 let  expJogador= 8003
 
-// CLASSIFICAÇÃO DE NIVEL
+// CLASSIFICAÇÃO DE NIVEL 
 switch (true){
         case (expJogador<=1000):
             console.log("o jogador "+nickName+" possui "+expJogador+" de XP portanto está no nivel FERRO")
@@ -27,4 +27,4 @@ switch (true){
 }
 if (expJogador>=10001){
     console.log("o jogador "+nickName+" possui "+expJogador+" de XP portanto está no nivel RADIANTE")
-} 
+}
