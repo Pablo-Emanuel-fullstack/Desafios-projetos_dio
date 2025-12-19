@@ -6,7 +6,7 @@
 //Se vitórias for entre 91 e 100= Lendário
 //Se vitórias for maior ou igual a 101 = Imortal
 let nickName ="Jeff"
-let vitorias =15
+let vitorias =98
 let derrotas =2
 
 function ranking(){
